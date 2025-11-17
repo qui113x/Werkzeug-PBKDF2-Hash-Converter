@@ -6,7 +6,9 @@ This is a simple python script for converting pbkdf2_sha256 hashes into Hashcat 
 
 The script also contains a batch function that allows for the conversion of multiple hashes from a single input file.
 
-# Usage:  python3 pbkdf2-hashconv.py
+# Usage:  
+
+                                      python3 pbkdf2-hashconv.py
 
 Follow prompts and it's that simple!
 
