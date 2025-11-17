@@ -12,7 +12,7 @@ The script also contains a batch function that allows for the conversion of mult
 
 Follow prompts and it's that simple!
 
-NOTE: After you place your converted hashcat compatible hash in a file (ie hast.txt), it can be cracked with the following command:
+NOTE: After you place your converted hashcat compatible hash in a file (ie hash.txt), it can be cracked with the following command:
 
                                       hashcat -m 10900 -a 0 hash.txt /path/to/wordlist.txt
 
